@@ -62,8 +62,8 @@ export default {
   ** Axios module configuration
   */
   axios: {
-    baseURL: 'http://localhost:8000/api'
-    //baseURL: 'https://assign1-laravel.herokuapp.com/api'
+    // baseURL: 'http://localhost:8000/api'
+    baseURL: 'https://assign1-laravel.herokuapp.com/api'
   },
 
   /*
